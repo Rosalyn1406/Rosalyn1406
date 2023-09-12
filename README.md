@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Rosalyn1406
   As a dedicated and data-driven physicist, I am passionate about unraveling the mysteries of the universe through rigorous research, analytical exploration, and cutting-edge technology. With a strong foundation in Physics and Astronomy, I have honed my skills in data analysis, statistical modeling, and scientific computing.
 
-- Analytical Expertise: My academic journey has equipped me with the proficiency to employ advanced analytical techniques, including Generalized Linear Models (GLM) and machine learning, to extract insights from complex datasets. I have a track record of leveraging Python, MATLAB, and other programming languages to solve intricate problems and derive meaningful conclusions.
+-  Analytical Expertise: My academic journey has equipped me with the proficiency to employ advanced analytical techniques, including Generalized Linear Models (GLM) and machine learning, to extract insights from complex datasets. I have a track record of leveraging Python, MATLAB, and other programming languages to solve intricate problems and derive meaningful conclusions.
 
-- Research and Innovation: I thrive in the world of research and have contributed to projects spanning astrophysics, gravitational collapse dynamics, and molecular interactions. Through hands-on experience and collaborative teamwork, I have gained a deep appreciation for the scientific process and the power of data-driven decision-making.
+- 👩‍🔬 Research and Innovation: I thrive in the world of research and have contributed to projects spanning astrophysics, gravitational collapse dynamics, and molecular interactions. Through hands-on experience and collaborative teamwork, I have gained a deep appreciation for the scientific process and the power of data-driven decision-making.
 
 - Practical Skills: My expertise extends beyond the theoretical realm. I possess hands-on hardware skills, including data acquisition, electronics, and instrumentation software. Whether it's operating a 1m telescope or exploring the behavior of spacetime near black holes, I am committed to applying theoretical knowledge in practical settings.
 
