@@ -1,21 +1,36 @@
-- 👋 Hi, I’m @Rosalyn1406
-  As a dedicated and data-driven physicist, I am passionate about unraveling the mysteries of the universe through rigorous research, analytical exploration, and cutting-edge technology. With a strong foundation in Physics and Astronomy, I have honed my skills in data analysis, statistical modeling, and scientific computing.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rosalyn Chan
+====================================================================================================================================
 
--  Analytical Expertise: My academic journey has equipped me with the proficiency to employ advanced analytical techniques, including Generalized Linear Models (GLM) and machine learning, to extract insights from complex datasets. I have a track record of leveraging Python, MATLAB, and other programming languages to solve intricate problems and derive meaningful conclusions.
+Physicist, Data Analyst
+-----------------------
 
-- 👩‍🔬 Research and Innovation: I thrive in the world of research and have contributed to projects spanning astrophysics, gravitational collapse dynamics, and molecular interactions. Through hands-on experience and collaborative teamwork, I have gained a deep appreciation for the scientific process and the power of data-driven decision-making.
+Passionate Physicist with a strong foundation in mathematics, programming, and data analytics. Leveraging Python, MATLAB, and SQL to extract insights from diverse datasets. Experienced in machine learning, data visualization, and scientific computing. Enthusiastic about solving complex problems and sharing knowledge through code.
 
-- Practical Skills: My expertise extends beyond the theoretical realm. I possess hands-on hardware skills, including data acquisition, electronics, and instrumentation software. Whether it's operating a 1m telescope or exploring the behavior of spacetime near black holes, I am committed to applying theoretical knowledge in practical settings.
+* 🌍  I'm based in Toronto
+* ✉️  You can contact me at [rosalynchan146@gmail.com](mailto:rosalynchan146@gmail.com)
+* 🧠  I'm learning Business Data Analytics & Intelligence
+* 🤝  I'm open to collaborating on Projects
 
-- Multilingual Communication: Proficient in English and Malay, with intermediate proficiency in Mandarin and Cantonese, I value effective communication and collaboration across diverse teams and cultures.
+### Skills
 
-- Academic Achievements: I am proud to be a member of the Golden Key International Honour Society and have been recognized for academic excellence with awards such as the York University International Award of Merit.
 
-- Future Endeavors: I am excited about the intersection of physics, data science, and technology. My goal is to continue pushing the boundaries of knowledge and contribute to projects that make a meaningful impact. I am open to new opportunities and collaborations in the fields of data science, research, and beyond.
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
 
-Feel free to connect with me to discuss shared interests, potential collaborations, or to explore how my analytical skills and scientific background can contribute to your projects and initiatives.
 
-<!---
-Rosalyn1406/Rosalyn1406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Socials
+
+<p align="left"> <a href="https://www.github.com/rosalyn1406" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rosalynchanyokeling" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/rosalyn1406"><img src="https://github-readme-stats.vercel.app/api?username=rosalyn1406&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rosalyn1406's GitHub stats" /></a>
+
+<a href="http://www.github.com/rosalyn1406"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rosalyn1406&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/rosalyn1406"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rosalyn1406&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/rosalyn1406" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosalyn1406&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
