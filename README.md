@@ -7,6 +7,7 @@ Physicist, Data Analyst
 Passionate Physicist with a strong foundation in mathematics, programming, and data analytics. Leveraging Python, MATLAB, and SQL to extract insights from diverse datasets. Experienced in machine learning, data visualization, and scientific computing. Enthusiastic about solving complex problems and sharing knowledge through code.
 
 * 🌍  I'm based in Toronto
+* 🖥️  See my portfolio at [My Portfolio](http://rosalyn1406.github.io/)
 * ✉️  You can contact me at [rosalynchan146@gmail.com](mailto:rosalynchan146@gmail.com)
 * 🧠  I'm learning Business Data Analytics & Intelligence
 * 🤝  I'm open to collaborating on Projects
