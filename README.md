@@ -9,7 +9,6 @@ Passionate Physicist with a strong foundation in mathematics, programming, and d
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [My Portfolio](http://rosalyn1406.github.io/)
 * ✉️  You can contact me at [rosalynchan146@gmail.com](mailto:rosalynchan146@gmail.com)
-* 🧠  I'm learning Business Data Analytics & Intelligence
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
